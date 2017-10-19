@@ -1,0 +1,9 @@
+indiFuturoPresente
+indiFuturoPreterito
+indiPresente  
+indiPreteritoImperfeito 
+indiPreteritoMqf
+indiPreteritoPerfeito
+subFuturo
+subPresente
+subPreteritoImperfeito 

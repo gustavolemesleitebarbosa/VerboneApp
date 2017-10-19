@@ -1,0 +1,2088 @@
+﻿-
+abre tu
+abra ele
+abramos nós
+abri vós
+abram eles
+-
+absorve tu
+absorva ele
+absorvamos nós
+absorvei vós
+absorvam eles
+-
+abstém tu
+abstenha ele
+abstenhamos nós
+abstende vós
+abstenham eles
+-
+aceita tu
+aceite ele
+aceitemos nós
+aceitai vós
+aceitem eles
+-
+acende tu
+acenda ele
+acendamos nós
+acendei vós
+acendam eles
+-
+acude tu
+acuda ele
+acudamos nós
+acudi vós
+acudam eles
+-
+- tu
+- ele
+adequemos</a nós
+adequeis vós
+- eles
+-
+adere tu
+adira ele
+adiramos nós
+aderi vós
+adiram eles
+-
+adjaze tu
+adjaza ele
+adjazamos nós
+adjazei vós
+adjazam eles
+-
+adverte tu
+advirta ele
+advirtamos nós
+adverti vós
+advirtam eles
+-
+afaze (ou satisfaz) tu
+afaça ele
+afaçamos nós
+afazei vós
+afaçam eles
+-
+afere tu
+afira ele
+afiramos nós
+aferi vós
+afiram eles
+-
+aflige tu
+aflija ele
+aflijamos nós
+afligi vós
+aflijam eles
+-
+agride tu
+agrida ele
+agridamos nós
+agredi vós
+agridam eles
+-
+anseia tu
+anseie ele
+ansiemos nós
+ansiai vós
+anseiem eles
+-
+anteda tu
+antede ele
+antedemos nós
+antedai vós
+antedem eles
+-
+antepõe tu
+anteponha ele
+anteponhamos nós
+anteponde vós
+anteponham eles
+-
+antevê tu
+anteveja ele
+antevejamos nós
+antevede vós
+antevejam eles
+-
+apõe tu
+aponha ele
+aponhamos nós
+aponde vós
+aponham eles
+-
+- tu
+- ele
+- nós
+- vós
+- eles
+-
+apropinqua tu
+apropinque ele
+apropinquemos nós
+apropinquai vós
+apropinquem eles
+-
+asperge tu
+aspirja ele
+aspirjamos nós
+aspergi vós
+aspirjam eles
+-
+assente tu
+assinta ele
+assintamos nós
+assenti vós
+assintam eles
+-
+atém tu
+atenha ele
+atenhamos nós
+atende vós
+atenham eles
+-
+atinge tu
+atinja ele
+atinjamos nós
+atingi vós
+atinjam eles
+-
+atrai tu
+atraia ele
+atraiamos nós
+atraí vós
+atraiam eles
+-
+atribui tu
+atribua ele
+atribuamos nós
+atribuí vós
+atribuam eles
+-
+autodestrue tu
+autodestrua ele
+autodestruamos nós
+autodestrui vós
+autodestruam eles
+-
+ave tu
+ava ele
+avamos nós
+avi vós
+avam eles
+-
+bem-dize tu
+bem-diza ele
+bem-dizamos nós
+bem-dizei vós
+bem-dizam eles
+-
+bem-faze (ou satisfaz) tu
+bem-faça ele
+bem-façamos nós
+bem-fazei vós
+bem-façam eles
+-
+bem-quere tu
+bem-quera ele
+bem-queramos nós
+bem-querei vós
+bem-queram eles
+-
+bendize (ou diz) tu
+bendiga ele
+bendigamos nós
+bendizei vós
+bendigam eles
+-
+benfaze (ou satisfaz) tu
+benfaça ele
+benfaçamos nós
+benfazei vós
+benfaçam eles
+-
+benquere tu
+benquera ele
+benqueramos nós
+benquerei vós
+benqueram eles
+-
+benze tu
+benza ele
+benzamos nós
+benzei vós
+benzam eles
+-
+boia tu
+boie ele
+boiemos nós
+boiai vós
+boiem eles
+-
+bue tu
+bua ele
+buamos nós
+bui vós
+buam eles
+-
+bule tu
+bula ele
+bulamos nós
+buli vós
+bulam eles
+-
+- tu
+- ele
+- nós
+- vós
+- eles
+-
+cai tu
+caia ele
+caiamos nós
+caí vós
+caiam eles
+-
+cativa tu
+cative ele
+cativemos nós
+cativai vós
+cativem eles
+-
+cega tu
+cegue ele
+ceguemos nós
+cegai vós
+ceguem eles
+-
+cirze tu
+cirza ele
+cirzamos nós
+cerzi vós
+cirzam eles
+-
+circumpõe tu
+circumponha ele
+circumponhamos nós
+circumponde vós
+circumponham eles
+-
+circunvê tu
+circunveja ele
+circunvejamos nós
+circunvede vós
+circunvejam eles
+-
+cobre tu
+cubra ele
+cubramos nós
+cobri vós
+cubram eles
+-
+compele tu
+compila ele
+compilamos nós
+compeli vós
+compilam eles
+-
+compete tu
+compita ele
+compitamos nós
+competi vós
+compitam eles
+-
+completa tu
+complete ele
+completemos nós
+completai vós
+completem eles
+-
+compõe tu
+componha ele
+componhamos nós
+componde vós
+componham eles
+-
+compraze tu
+compraza ele
+comprazamos nós
+comprazei vós
+comprazam eles
+-
+concerne tu
+concirna ele
+concirnamos nós
+concerni vós
+concirnam eles
+-
+conclui tu
+conclua ele
+concluamos nós
+concluí vós
+concluam eles
+-
+condize (ou diz) tu
+condiga ele
+condigamos nós
+condizei vós
+condigam eles
+-
+condoe tu
+condoa ele
+condoamos nós
+condoei vós
+condoam eles
+-
+confere tu
+confira ele
+confiramos nós
+conferi vós
+confiram eles
+-
+confuge tu
+confuja ele
+confujamos nós
+confugi vós
+confujam eles
+-
+consegue tu
+consiga ele
+consigamos nós
+consegui vós
+consigam eles
+-
+consente tu
+consinta ele
+consintamos nós
+consenti vós
+consintam eles
+-
+constrói tu
+construa ele
+construamos nós
+construí vós
+construam eles
+-
+consome tu
+consuma ele
+consumamos nós
+consumi vós
+consumam eles
+-
+contém tu
+contenha ele
+contenhamos nós
+contende vós
+contenham eles
+-
+contradize (ou diz) tu
+contradiga ele
+contradigamos nós
+contradizei vós
+contradigam eles
+-
+contrafaze (ou satisfaz) tu
+contrafaça ele
+contrafaçamos nós
+contrafazei vós
+contrafaçam eles
+-
+contrai tu
+contraia ele
+contraiamos nós
+contraí vós
+contraiam eles
+-
+contrapõe tu
+contraponha ele
+contraponhamos nós
+contraponde vós
+contraponham eles
+-
+contrapropõe tu
+contraproponha ele
+contraproponhamos nós
+contraproponde vós
+contraproponham eles
+-
+contravém tu
+contravenha ele
+contravenhamos nós
+contravinde vós
+contravenham eles
+-
+convence tu
+convença ele
+convençamos nós
+convencei vós
+convençam eles
+-
+converge tu
+convirja ele
+convirjamos nós
+convergi vós
+convirjam eles
+-
+convém tu
+convenha ele
+convenhamos nós
+convinde vós
+convenham eles
+-
+corrompe tu
+corrompa ele
+corrompamos nós
+corrompei vós
+corrompam eles
+-
+crê tu
+creia ele
+creiamos nós
+crede vós
+creiam eles
+-
+cultiva tu
+cultive ele
+cultivemos nós
+cultivai vós
+cultivem eles
+-
+cuspe tu
+cuspa ele
+cuspamos nós
+cuspi vós
+cuspam eles
+-
+decompõe tu
+decomponha ele
+decomponhamos nós
+decomponde vós
+decomponham eles
+-
+defende tu
+defenda ele
+defendamos nós
+defendei vós
+defendam eles
+-
+defere tu
+defira ele
+defiramos nós
+deferi vós
+defiram eles
+-
+delínque tu
+- ele
+- nós
+delinqui vós
+- eles
+-
+denigre tu
+denigra ele
+denigramos nós
+denegri vós
+denigram eles
+-
+depõe tu
+deponha ele
+deponhamos nós
+deponde vós
+deponham eles
+-
+desafaze (ou satisfaz) tu
+desafaça ele
+desafaçamos nós
+desafazei vós
+desafaçam eles
+-
+desagua</a tu
+desague ele
+desaguemos nós
+desaguai</a vós
+desaguem eles
+-
+desapõe tu
+desaponha ele
+desaponhamos nós
+desaponde vós
+desaponham eles
+-
+- tu
+- ele
+- nós
+- vós
+- eles
+-
+desavém tu
+desavenha ele
+desavenhamos nós
+desavinde vós
+desavenham eles
+-
+descabe tu
+descaba ele
+descabamos nós
+descabei vós
+descabam eles
+-
+descalça tu
+descalce ele
+descalcemos nós
+descalçai vós
+descalcem eles
+-
+descobre tu
+descubra ele
+descubramos nós
+descobri vós
+descubram eles
+-
+descompõe tu
+descomponha ele
+descomponhamos nós
+descomponde vós
+descomponham eles
+-
+descompraze tu
+descompraza ele
+descomprazamos nós
+descomprazei vós
+descomprazam eles
+-
+desconstrue tu
+desconstrua ele
+desconstruamos nós
+desconstrui vós
+desconstruam eles
+-
+desconvém tu
+desconvenha ele
+desconvenhamos nós
+desconvinde vós
+desconvenham eles
+-
+descrê tu
+descreia ele
+descreiamos nós
+descrede vós
+descreiam eles
+-
+desdá tu
+desdê ele
+desdemos nós
+desdai vós
+desdeem eles
+-
+desdize (ou diz) tu
+desdiga ele
+desdigamos nós
+desdizei vós
+desdigam eles
+-
+desimpede tu
+desimpeça ele
+desimpedamos nós
+desimpedi vós
+desimpeçam eles
+-
+desimpõe tu
+desimponha ele
+desimponhamos nós
+desimponde vós
+desimponham eles
+-
+deslingua</a tu
+deslingúe</a ele
+deslinguemos</a nós
+deslinguai</a vós
+deslingúem</a eles
+-
+desmede tu
+desmeda ele
+desmedamos nós
+desmedi vós
+desmedam eles
+-
+desmente tu
+desmenta ele
+desmentamos nós
+desmenti vós
+desmentam eles
+-
+desmobilia tu
+desmobilie ele
+desmobiliemos nós
+desmobiliai vós
+desmobiliem eles
+-
+despede tu
+despeça ele
+despeçamos nós
+despedi vós
+despeçam eles
+-
+despe tu
+dispa ele
+dispamos nós
+despi vós
+dispam eles
+-
+despole tu
+despola ele
+despolamos nós
+despoli vós
+despolam eles
+-
+despõe tu
+desponha ele
+desponhamos nós
+desponde vós
+desponham eles
+-
+- tu
+- ele
+- nós
+- vós
+- eles
+-
+desprecavê tu
+desprecaveja ele
+desprecavejamos nós
+desprecavede vós
+desprecavejam eles
+-
+desprovê tu
+desproveja ele
+desprovejamos nós
+desprovede vós
+desprovejam eles
+-
+desquere tu
+desquera ele
+desqueramos nós
+desquerei vós
+desqueram eles
+-
+dessabe tu
+dessaba ele
+dessabamos nós
+dessabei vós
+dessabam eles
+-
+destrói tu
+destrua ele
+destruamos nós
+destruí vós
+destruam eles
+-
+desvale tu
+desvalha ele
+desvalhamos nós
+desvalei vós
+desvalham eles
+-
+detém tu
+detenha ele
+detenhamos nós
+detende vós
+detenham eles
+-
+digere tu
+digira ele
+digiramos nós
+digeri vós
+digiram eles
+-
+disperde tu
+disperda ele
+disperdamos nós
+disperdei vós
+disperdam eles
+-
+dispõe tu
+disponha ele
+disponhamos nós
+disponde vós
+disponham eles
+-
+dissolve tu
+dissolva ele
+dissolvamos nós
+dissolvei vós
+dissolvam eles
+-
+distrai tu
+distraia ele
+distraiamos nós
+distraí vós
+distraiam eles
+-
+diverte tu
+divirta ele
+divirtamos nós
+diverti vós
+divirtam eles
+-
+dize (ou diz) tu
+diga ele
+digamos nós
+dizei vós
+digam eles
+-
+dorme tu
+durma ele
+durmamos nós
+dormi vós
+durmam eles
+-
+elege tu
+eleja ele
+elejamos nós
+elegei vós
+elejam eles
+-
+embai tu
+embaia ele
+embaiamos nós
+embaí vós
+embaiam eles
+-
+emerge tu
+emerja ele
+emerjamos nós
+emergi vós
+emerjam eles
+-
+encobre tu
+encubra ele
+encubramos nós
+encobri vós
+encubram eles
+-
+engole tu
+engola ele
+engolamos nós
+engoli vós
+engolam eles
+-
+entredize (ou diz) tu
+entrediga ele
+entredigamos nós
+entredizei vós
+entredigam eles
+-
+entrefaze (ou satisfaz) tu
+entrefaça ele
+entrefaçamos nós
+entrefazei vós
+entrefaçam eles
+-
+entreouve tu
+entreouva ele
+entreouvamos nós
+entreouvi vós
+entreouvam eles
+-
+entrepõe tu
+entreponha ele
+entreponhamos nós
+entreponde vós
+entreponham eles
+-
+entrequere tu
+entrequera ele
+entrequeramos nós
+entrequerei vós
+entrequeram eles
+-
+entrevê tu
+entreveja ele
+entrevejamos nós
+entrevede vós
+entrevejam eles
+-
+entreve tu
+entreva ele
+entrevamos nós
+entrevi vós
+entrevam eles
+-
+entope tu
+entupa ele
+entupamos nós
+entupi vós
+entupam eles
+-
+envolve tu
+envolva ele
+envolvamos nós
+envolvei vós
+envolvam eles
+-
+enxagua</a tu
+enxague ele
+enxaguemos nós
+enxaguai vós
+enxaguem eles
+-
+enxuga tu
+enxugue ele
+enxuguemos nós
+enxugai vós
+enxuguem eles
+-
+equivale tu
+equivalha ele
+equivalhamos nós
+equivalei vós
+equivalham eles
+-
+erige tu
+erija ele
+erijamos nós
+erigi vós
+erijam eles
+-
+escapule tu
+escapula ele
+escapulamos nós
+escapuli vós
+escapulam eles
+-
+esfaze (ou satisfaz) tu
+esfaça ele
+esfaçamos nós
+esfazei vós
+esfaçam eles
+-
+está tu
+esteja ele
+estejamos nós
+estai vós
+estejam eles
+-
+estréiua tu
+estréiúe ele
+estréiuemos nós
+estréiuai vós
+estréiúem</a eles
+-
+esvai tu
+esvaia ele
+esvaiamos nós
+esvaí vós
+esvaiam eles
+-
+expede tu
+expeça ele
+expedamos nós
+expedi vós
+expeçam eles
+-
+expele tu
+expila ele
+expilamos nós
+expeli vós
+expilam eles
+-
+expõe tu
+exponha ele
+exponhamos nós
+exponde vós
+exponham eles
+-
+exprime tu
+exprima ele
+exprimamos nós
+exprimi vós
+exprimam eles
+-
+expulsa tu
+expulse ele
+expulsemos nós
+expulsai vós
+expulsem eles
+-
+extingue tu
+extinga ele
+extinguamos nós
+extingui vós
+extingam eles
+-
+extrapõe tu
+extraponha ele
+extraponhamos nós
+extraponde vós
+extraponham eles
+-
+farta tu
+farte ele
+fartemos nós
+fartai vós
+fartem eles
+-
+faze (ou faz) tu
+faça ele
+façamos nós
+fazei vós
+façam eles
+-
+fere tu
+fira ele
+firamos nós
+feri vós
+firam eles
+-
+finda tu
+finde ele
+findemos nós
+findai vós
+findem eles
+-
+fotocompõe tu
+fotocomponha ele
+fotocomponhamos nós
+fotocomponde vós
+fotocomponham eles
+-
+fragua</a tu
+fragúe</a ele
+fraguemos</a nós
+fraguai</a vós
+fragúem</a eles
+-
+frege tu
+frija ele
+frijamos nós
+frigi vós
+frijam eles
+-
+fuge tu
+fuja ele
+fujamos nós
+fugi vós
+fujam eles
+-
+gasta tu
+gaste ele
+gastemos nós
+gastai vós
+gastem eles
+-
+gelifaze (ou satisfaz) tu
+gelifaça ele
+gelifaçamos nós
+gelifazei vós
+gelifaçam eles
+-
+há tu
+haja ele
+hajamos nós
+havei vós
+hajam eles
+-
+idéia tu
+idéie ele
+ideemos nós
+ideai vós
+idéiem</a eles
+-
+imerge tu
+imerja ele
+imerjamos nós
+imergi vós
+imerjam eles
+-
+impede tu
+impeça ele
+impeçamos nós
+impedi vós
+impeçam eles
+-
+impele tu
+impila ele
+impilamos nós
+impeli vós
+impilam eles
+-
+impõe tu
+imponha ele
+imponhamos nós
+imponde vós
+imponham eles
+-
+imprime tu
+imprima ele
+imprimamos nós
+imprimi vós
+imprimam eles
+-
+incendeia tu
+incendeie ele
+incendiemos nós
+incendiai vós
+incendeiem eles
+-
+inclui tu
+inclua ele
+incluamos nós
+incluí vós
+incluam eles
+-
+incorre tu
+incorra ele
+incorramos nós
+incorrei vós
+incorram eles
+-
+indispõe tu
+indisponha ele
+indisponhamos nós
+indisponde vós
+indisponham eles
+-
+infecta tu
+infecte ele
+infectemos nós
+infectai vós
+infectem eles
+-
+influi tu
+influa ele
+influamos nós
+influí vós
+influam eles
+-
+inquieta tu
+inquiete ele
+inquietemos nós
+inquietai vós
+inquietem eles
+-
+insatisfaze (ou satisfaz) tu
+insatisfaça ele
+insatisfaçamos nós
+insatisfazei vós
+insatisfaçam eles
+-
+insere tu
+insira ele
+insiramos nós
+inseri vós
+insiram eles
+-
+interdize tu
+interdiza ele
+interdizamos nós
+interdizei vós
+interdizam eles
+-
+intermedeia tu
+intermedeie ele
+intermediemos nós
+intermediai vós
+intermedeiem eles
+-
+interpõe tu
+interponha ele
+interponhamos nós
+interponde vós
+interponham eles
+-
+intervê tu
+interveja ele
+intervejamos nós
+intervede vós
+intervejam eles
+-
+intervém tu
+intervenha ele
+intervenhamos nós
+intervinde vós
+intervenham eles
+-
+vai tu
+vá ele
+vamos nós
+ide vós
+vão eles
+-
+isenta tu
+isente ele
+isentemos nós
+isentai vós
+isentem eles
+-
+jaze tu
+jaza ele
+jazamos nós
+jazei vós
+jazam eles
+-
+junta tu
+junte ele
+juntemos nós
+juntai vós
+juntem eles
+-
+justapõe tu
+justaponha ele
+justaponhamos nós
+justaponde vós
+justaponham eles
+-
+lê tu
+leia ele
+leiamos nós
+lede vós
+leiam eles
+-
+liberta tu
+liberte ele
+libertemos nós
+libertai vós
+libertem eles
+-
+limpa tu
+limpe ele
+limpemos nós
+limpai vós
+limpem eles
+-
+liquefaze (ou satisfaz) tu
+liquefaça ele
+liquefaçamos nós
+liquefazei vós
+liquefaçam eles
+-
+maisquere tu
+maisquera ele
+maisqueramos nós
+maisquerei vós
+maisqueram eles
+-
+maldispõe tu
+maldisponha ele
+maldisponhamos nós
+maldisponde vós
+maldisponham eles
+-
+maldize tu
+maldiza ele
+maldizamos nós
+maldizei vós
+maldizam eles
+-
+malfaze (ou satisfaz) tu
+malfaça ele
+malfaçamos nós
+malfazei vós
+malfaçam eles
+-
+malingua</a tu
+malingúe</a ele
+malinguemos</a nós
+malinguai</a vós
+malingúem</a eles
+-
+malpare tu
+malpara ele
+malparamos nós
+malpari vós
+malparam eles
+-
+malquere tu
+malquera ele
+malqueramos nós
+malquerei vós
+malqueram eles
+-
+manifesta tu
+manifeste ele
+manifestemos nós
+manifestai vós
+manifestem eles
+-
+mantém tu
+mantenha ele
+mantenhamos nós
+mantende vós
+mantenham eles
+-
+mata tu
+mate ele
+matemos nós
+matai vós
+matem eles
+-
+medeia tu
+medeie ele
+mediemos nós
+mediai vós
+medeiem eles
+-
+mede tu
+meça ele
+meçamos nós
+medi vós
+meçam eles
+-
+mente tu
+minta ele
+mintamos nós
+menti vós
+mintam eles
+-
+mingua</a tu
+mingúe</a ele
+minguemos</a nós
+minguai</a vós
+mingúem</a eles
+-
+mobilia tu
+mobilie ele
+mobiliemos nós
+mobiliai vós
+mobiliem eles
+-
+moe tu
+moa ele
+moamos nós
+moei vós
+moam eles
+-
+morre tu
+morra ele
+morramos nós
+morrei vós
+morram eles
+-
+murcha tu
+murche ele
+murchemos nós
+murchai vós
+murchem eles
+-
+nasce tu
+nasça ele
+nasçamos nós
+nascei vós
+nasçam eles
+-
+obtém tu
+obtenha ele
+obtenhamos nós
+obtende vós
+obtenham eles
+-
+obve tu
+obva ele
+obvamos nós
+obvi vós
+obvam eles
+-
+oculta tu
+oculte ele
+ocultemos nós
+ocultai vós
+ocultem eles
+-
+odeia tu
+odeie ele
+odiemos nós
+odiai vós
+odeiem eles
+-
+omite tu
+omita ele
+omitamos nós
+omiti vós
+omitam eles
+-
+opõe tu
+oponha ele
+oponhamos nós
+oponde vós
+oponham eles
+-
+oprime tu
+oprima ele
+oprimamos nós
+oprimi vós
+oprimam eles
+-
+ouve tu
+ouça ele
+ouçamos nós
+ouvi vós
+ouçam eles
+-
+paga tu
+pague ele
+paguemos nós
+pagai vós
+paguem eles
+-
+pare tu
+paira ele
+pairamos nós
+pari vós
+pairam eles
+-
+pede tu
+peça ele
+peçamos nós
+pedi vós
+peçam eles
+-
+perde tu
+perca ele
+percamos nós
+perdei vós
+percam eles
+-
+perfaze (ou satisfaz) tu
+perfaça ele
+perfaçamos nós
+perfazei vós
+perfaçam eles
+-
+persegue tu
+persiga ele
+persigamos nós
+persegui vós
+persigam eles
+-
+persente tu
+persinta ele
+persintamos nós
+persenti vós
+persintam eles
+-
+perverte tu
+perverta ele
+pervertamos nós
+pervertei vós
+pervertam eles
+-
+pleiteia tu
+pleiteie ele
+pleiteemos nós
+pleiteai vós
+pleiteiem eles
+-
+- tu
+- ele
+- nós
+- vós
+- eles
+-
+pule tu
+pula ele
+pulamos nós
+poli vós
+pulam eles
+-
+pospõe tu
+posponha ele
+posponhamos nós
+posponde vós
+posponham eles
+-
+põe tu
+ponha ele
+ponhamos nós
+ponde vós
+ponham eles
+-
+- tu
+praza ele
+- nós
+- vós
+prazam eles
+-
+preclue tu
+preclua ele
+precluamos nós
+preclui vós
+precluam eles
+-
+predispõe tu
+predisponha ele
+predisponhamos nós
+predisponde vós
+predisponham eles
+-
+predize (ou diz) tu
+prediga ele
+predigamos nós
+predizei vós
+predigam eles
+-
+prefere tu
+prefira ele
+prefiramos nós
+preferi vós
+prefiram eles
+-
+prende tu
+prenda ele
+prendamos nós
+prendei vós
+prendam eles
+-
+prepõe tu
+preponha ele
+preponhamos nós
+preponde vós
+preponham eles
+-
+pressente tu
+pressinta ele
+pressintamos nós
+pressenti vós
+pressintam eles
+-
+pressupõe tu
+pressuponha ele
+pressuponhamos nós
+pressuponde vós
+pressuponham eles
+-
+pretende tu
+pretenda ele
+pretendamos nós
+pretendei vós
+pretendam eles
+-
+pretere tu
+pretira ele
+pretiramos nós
+preteri vós
+pretiram eles
+-
+prevene tu
+prevena ele
+prevenamos nós
+preveni vós
+prevenam eles
+-
+prevê tu
+preveja ele
+prevejamos nós
+prevede vós
+prevejam eles
+-
+progride tu
+progrida ele
+progridamos nós
+progredi vós
+progridam eles
+-
+propõe tu
+proponha ele
+proponhamos nós
+proponde vós
+proponham eles
+-
+prossupõe tu
+prossuponha ele
+prossuponhamos nós
+prossuponde vós
+prossuponham eles
+-
+provê tu
+proveja ele
+provejamos nós
+provede vós
+provejam eles
+-
+provém tu
+provenha ele
+provenhamos nós
+provinde vós
+provenham eles
+-
+prue tu
+prua ele
+pruamos nós
+prui vós
+pruam eles
+-
+pue tu
+pua ele
+puamos nós
+pui vós
+puam eles
+-
+putrefaze (ou satisfaz) tu
+putrefaça ele
+putrefaçamos nós
+putrefazei vós
+putrefaçam eles
+-
+quer tu
+queira ele
+queiramos nós
+querei vós
+queiram eles
+-
+rae tu
+raa ele
+raamos nós
+raei vós
+raam eles
+-
+rarefaze (ou satisfaz) tu
+rarefaça ele
+rarefaçamos nós
+rarefazei vós
+rarefaçam eles
+-
+readequa</a tu
+readeqúe</a ele
+readequemos</a nós
+readequai</a vós
+readeqúem</a eles
+-
+- tu
+- ele
+- nós
+reavei vós
+- eles
+-
+reave tu
+reava ele
+reavamos nós
+reavi vós
+reavam eles
+-
+recobre tu
+recubra ele
+recubramos nós
+recobri vós
+recubram eles
+-
+recompõe tu
+recomponha ele
+recomponhamos nós
+recomponde vós
+recomponham eles
+-
+reconve tu
+reconva ele
+reconvamos nós
+reconvi vós
+reconvam eles
+-
+reda tu
+rede ele
+redemos nós
+redai vós
+redem eles
+-
+redispõe tu
+redisponha ele
+redisponhamos nós
+redisponde vós
+redisponham eles
+-
+redize (ou diz) tu
+rediga ele
+redigamos nós
+redizei vós
+redigam eles
+-
+reexpede tu
+reexpeça ele
+reexpedamos nós
+reexpedi vós
+reexpeçam eles
+-
+reexpõe tu
+reexponha ele
+reexponhamos nós
+reexponde vós
+reexponham eles
+-
+refaze (ou satisfaz) tu
+refaça ele
+refaçamos nós
+refazei vós
+refaçam eles
+-
+regride tu
+regrida ele
+regridamos nós
+regredi vós
+regridam eles
+-
+reimpõe tu
+reimponha ele
+reimponhamos nós
+reimponde vós
+reimponham eles
+-
+reindispõe tu
+reindisponha ele
+reindisponhamos nós
+reindisponde vós
+reindisponham eles
+-
+relê tu
+releia ele
+releiamos nós
+relede vós
+releiam eles
+-
+remedeia tu
+remedeie ele
+remediemos nós
+remediai vós
+remedeiem eles
+-
+remede tu
+remeda ele
+remedamos nós
+remedi vós
+remedam eles
+-
+reobte tu
+reobta ele
+reobtamos nós
+reobtei vós
+reobtam eles
+-
+reouve tu
+reouva ele
+reouvamos nós
+reouvi vós
+reouvam eles
+-
+repede tu
+repeça ele
+repedamos nós
+repedi vós
+repeçam eles
+-
+repele tu
+repila ele
+repilamos nós
+repeli vós
+repilam eles
+-
+repõe tu
+reponha ele
+reponhamos nós
+reponde vós
+reponham eles
+-
+repropõe tu
+reproponha ele
+reproponhamos nós
+reproponde vós
+reproponham eles
+-
+requer tu
+requeira ele
+requeiramos nós
+requerei vós
+requeiram eles
+-
+resfólega tu
+resfólegue ele
+resfoleguemos nós
+resfolegai vós
+resfólegem</a eles
+-
+ressente tu
+ressinta ele
+ressintamos nós
+ressenti vós
+ressintam eles
+-
+retém tu
+retenha ele
+retenhamos nós
+retende vós
+retenham eles
+-
+retrai tu
+retraia ele
+retraiamos nós
+retraí vós
+retraiam eles
+-
+retranspõe tu
+retransponha ele
+retransponhamos nós
+retransponde vós
+retransponham eles
+-
+revê tu
+reveja ele
+revejamos nós
+revede vós
+revejam eles
+-
+reve tu
+reva ele
+revamos nós
+revi vós
+revam eles
+-
+revolve tu
+revolva ele
+revolvamos nós
+revolvei vós
+revolvam eles
+-
+ri tu
+ria ele
+riamos nós
+ride vós
+riam eles
+-
+rompe tu
+rompa ele
+rompamos nós
+rompei vós
+rompam eles
+-
+rui tu
+- ele
+- nós
+ruí vós
+- eles
+-
+sabe tu
+saiba ele
+saibamos nós
+sabei vós
+saibam eles
+-
+sacude tu
+sacuda ele
+sacudamos nós
+sacudi vós
+sacudam eles
+-
+sai tu
+saia ele
+saiamos nós
+saí vós
+saiam eles
+-
+salva tu
+salve ele
+salvemos nós
+salvai vós
+salvem eles
+-
+santigua</a tu
+santigúe</a ele
+santiguemos</a nós
+santiguai</a vós
+santigúem</a eles
+-
+satisfaze (ou satisfaz) tu
+satisfaça ele
+satisfaçamos nós
+satisfazei vós
+satisfaçam eles
+-
+seca tu
+seque ele
+secemos nós
+secai vós
+seuem eles
+-
+segue tu
+siga ele
+sigamos nós
+segui vós
+sigam eles
+-
+segura tu
+segure ele
+seguremos nós
+segurai vós
+segurem eles
+-
+sente tu
+sinta ele
+sintamos nós
+senti vós
+sintam eles
+-
+sê tu
+seja ele
+sejamos nós
+sede vós
+sejam eles
+-
+serve tu
+sirva ele
+sirvamos nós
+servi vós
+sirvam eles
+-
+sobpõe tu
+sobponha ele
+sobponhamos nós
+sobponde vós
+sobponham eles
+-
+sobre-expõe tu
+sobre-exponha ele
+sobre-exponhamos nós
+sobre-exponde vós
+sobre-exponham eles
+-
+sobrepõe tu
+sobreponha ele
+sobreponhamos nós
+sobreponde vós
+sobreponham eles
+-
+sobresta tu
+sobreste ele
+sobrestemos nós
+sobrestai vós
+sobrestem eles
+-
+sobrevém tu
+sobrevenha ele
+sobrevenhamos nós
+sobrevinde vós
+sobrevenham eles
+-
+sói tu
+- ele
+- nós
+soei vós
+- eles
+-
+sorri tu
+sorria ele
+sorriamos nós
+sorride vós
+sorriam eles
+-
+sorteia tu
+sorteie ele
+sorteemos nós
+sorteai vós
+sorteiem eles
+-
+surte tu
+surta ele
+surtamos nós
+sorti vós
+surtam eles
+-
+sotopõe tu
+sotoponha ele
+sotoponhamos nós
+sotoponde vós
+sotoponham eles
+-
+sube tu
+suba ele
+subamos nós
+subi vós
+subam eles
+-
+submerge tu
+submerja ele
+submerjamos nós
+submergi vós
+submerjam eles
+-
+submete tu
+submeta ele
+submetamos nós
+submetei vós
+submetam eles
+-
+subpõe tu
+subponha ele
+subponhamos nós
+subponde vós
+subponham eles
+-
+subtrai tu
+subtraia ele
+subtraiamos nós
+subtraí vós
+subtraiam eles
+-
+sugere tu
+sugira ele
+sugiramos nós
+sugeri vós
+sugiram eles
+-
+some tu
+suma ele
+sumamos nós
+sumi vós
+sumam eles
+-
+superexpõe tu
+superexponha ele
+superexponhamos nós
+superexponde vós
+superexponham eles
+-
+superimpõe tu
+superimponha ele
+superimponhamos nós
+superimponde vós
+superimponham eles
+-
+superpõe tu
+superponha ele
+superponhamos nós
+superponde vós
+superponham eles
+-
+supõe tu
+suponha ele
+suponhamos nós
+suponde vós
+suponham eles
+-
+suspende tu
+suspenda ele
+suspendamos nós
+suspendei vós
+suspendam eles
+-
+sustém tu
+sustenha ele
+sustenhamos nós
+sustende vós
+sustenham eles
+-
+televê tu
+televeja ele
+televejamos nós
+televede vós
+televejam eles
+-
+tende tu
+tenda ele
+tendamos nós
+tendei vós
+tendam eles
+-
+tem tu
+tenha ele
+tenhamos nós
+tende vós
+tenham eles
+-
+torrefaze (ou satisfaz) tu
+torrefaça ele
+torrefaçamos nós
+torrefazei vós
+torrefaçam eles
+-
+tosse tu
+tussa ele
+tussamos nós
+tossi vós
+tussam eles
+-
+trai tu
+traia ele
+traiamos nós
+traí vós
+traiam eles
+-
+transfaze (ou satisfaz) tu
+transfaça ele
+transfaçamos nós
+transfazei vós
+transfaçam eles
+-
+transfuge tu
+transfuja ele
+transfujamos nós
+transfugi vós
+transfujam eles
+-
+transgride tu
+transgrida ele
+transgridamos nós
+transgredi vós
+transgridam eles
+-
+transpõe tu
+transponha ele
+transponhamos nós
+transponde vós
+transponham eles
+-
+traspõe tu
+trasponha ele
+trasponhamos nós
+trasponde vós
+trasponham eles
+-
+traze (ou traz) tu
+traga ele
+tragamos nós
+trazei vós
+tragam eles
+-
+trele tu
+trela ele
+trelamos nós
+trelei vós
+trelam eles
+-
+tresle tu
+tresla ele
+treslamos nós
+treslei vós
+treslam eles
+-
+trespõe tu
+tresponha ele
+tresponhamos nós
+tresponde vós
+tresponham eles
+-
+tumefaze (ou satisfaz) tu
+tumefaça ele
+tumefaçamos nós
+tumefazei vós
+tumefaçam eles
+-
+vale tu
+valha ele
+valhamos nós
+valei vós
+valham eles
+-
+vê tu
+veja ele
+vejamos nós
+vede vós
+vejam eles
+-
+veste tu
+vista ele
+vistamos nós
+vesti vós
+vistam eles
+-
+vem tu
+venha ele
+venhamos nós
+vinde vós
+venham eles
